@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aluko Tolulope Timothy
-- 👀 I’m interested in Junior Data Analyst Position/ Internships that would help hone my skills
-- 🌱 I’m well versed using Microsoft Excel, Microsoft Power BI, SQL and a touch of Phython
+- 👀 I’m a junior Data Analyst with about two years experience 
+- 🌱 I’m well versed using Microsoft Excel, Microsoft Power BI, SQL.
 - 📫 How to reach me via email: alukotolu43@gmail.com or Linkedin https://www.linkedin.com/in/timothy-tolulope-aluko-4b8921220
 - ⚡ Hobbies: whenever I am not working with data, I am playing the piano
 
